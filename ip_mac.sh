@@ -1,5 +1,5 @@
 #!/bin/bash
-#author		     github.com/retro-spoon
+#author		   github.com/retro-spoon
 #description	 Script to automate changing mac and ip address
 #		   			for desired interface
 #		     		Does not persist over reboot
