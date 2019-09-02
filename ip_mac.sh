@@ -1,5 +1,5 @@
 #!/bin/bash
-#author		 QTAT3R
+#author		 github.com/QTAT3R
 #description	 Script to auto change mac and ip address
 #		   for interface wlan0
 #		     Does not persist over reboot
